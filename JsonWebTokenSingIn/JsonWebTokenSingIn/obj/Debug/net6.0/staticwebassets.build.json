@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KnefEciABixqUnq+1NRlXEHF1+9w/VrNpq7tfeLAxgs=",
+  "Source": "JsonWebTokenSingIn",
+  "BasePath": "_content/JsonWebTokenSingIn",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
